@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @yuris-commit
+/src/backend/database.py      @yuris-commit
+/src/backend/routers/auth.py  @yuris-commit
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @yuris-commit
